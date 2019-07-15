@@ -1,0 +1,6 @@
+- name: hello
+  message: こんにちは
+- name: golang
+  message: Go言語
+- name: test.test
+  message: テストテスト
